@@ -93,4 +93,4 @@ This project is open-source under the MIT License.
 
 Author
 - P.J. McCoy
-- GitHub: NegassiNetwork(https://github.com/negassinetwork)
+- GitHub: NegassiNetwork (https://github.com/negassinetwork)
